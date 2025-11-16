@@ -1,0 +1,252 @@
+id,name
+eth,Ethereum
+bsc,BNB Chain
+polygon_pos,Polygon POS
+avax,Avalanche
+movr,Moonriver
+cro,Cronos
+one,Harmony
+boba,Boba Network
+ftm,Fantom
+bch,SmartBCH
+aurora,Aurora
+metis,Metis
+arbitrum,Arbitrum
+fuse,Fuse
+kcc,Kucoin Community Chain
+iotx,IOTEX
+celo,CELO
+xdai,Gnosis XDAI
+glmr,Moonbeam
+optimism,Optimism
+nrg,Energi
+wan,Wanchain
+ronin,Ronin
+kai,Kardiachain
+mtr,Meter
+velas,Velas
+sdn,Shiden
+tlos,Telos
+astr,Astar
+ela,Elastos
+dfk,DFK Chain
+evmos,Evmos
+solana,Solana
+cfx,Conflux
+bttc,BitTorrent
+sxn,SX Network
+xdc,XDC
+kaia,Kaia
+kava,Kava
+bitgert,Bitgert
+tombchain,Tombchain
+dogechain,Dogechain
+findora,Findora
+thundercore,ThunderCore
+arbitrum_nova,Arbitrum Nova
+canto,Canto
+ethereum_classic,Ethereum Classic
+step-network,Step Network
+ethw,EthereumPOW
+godwoken,Godwoken
+songbird,Songbird
+tomochain,Viction
+platon_network,PlatON Network
+exosama,Exosama
+oasys,Oasys
+bitkub_chain,KUB
+wemix,WEMIX
+flare,Flare
+onus,ONUS
+aptos,Aptos
+core,Core
+filecoin,Filecoin
+zksync,ZkSync
+loopnetwork,LoopNetwork
+multivac,MultiVAC
+polygon-zkevm,Polygon zkEVM
+eos-evm,EOS EVM
+ultron,Ultron
+sui-network,Sui Network
+pulsechain,Pulsechain
+enuls,ENULS
+tenet,Tenet
+rollux,Rollux
+starknet-alpha,Starknet
+mantle,Mantle
+neon-evm,Neon EVM
+linea,Linea
+base,Base
+bitrock,Bitrock
+opbnb,opBNB
+sei-network,Sei Network
+shibarium,Shibarium
+manta-pacific,Manta Pacific
+sepolia-testnet,Sepolia Testnet
+hedera-hashgraph,Hedera Hashgraph
+shimmerevm,ShimmerEVM
+beam,Beam
+scroll,Scroll
+lightlink-phoenix,LightLink Phoenix
+elysium,Elysium
+ton,TON
+mode,Mode
+defimetachain,DefiMetaChain
+humanode,Humanode
+mxc-zkevm,MXC zkEVM
+zkfair,ZKFair
+alveychain,AlveyChain
+blast-sepolia-testnet,Blast Sepolia (Testnet)
+zetachain,ZetaChain
+oasis-sapphire,Oasis Sapphire
+merlin-chain,Merlin Chain
+xai,Xai
+immutable-zkevm,Immutable zkEVM
+rails-network,Rails Network
+blast,Blast
+areon-network,Areum Network
+map-protocol,MAP Protocol
+fraxtal,Fraxtal
+omax-chain,Omax Chain
+zora-network,Zora
+inevm,inEVM
+bvm-nakachain,BVM NakaChain
+graphlinq-chain,GraphLinq Chain
+qitmeer-network,Qitmeer Network
+bevm,BEVM
+rss3-vsl-mainnet,RSS3 VSL Mainnet
+degenchain,Degen Chain
+bahamut-mainnet,Bahamut Mainnet
+chiliz-chain,Chiliz Chain
+lukso,Lukso
+ancient8,Ancient8
+x-layer,x Layer
+bsquared-network,BSquared Network
+bitlayer,Bitlayer
+bob-network,BOB Network
+redstone,Redstone
+cyber,Cyber
+octaspace,OctaSpace
+zklink-nova,zkLink Nova
+bouncebit,BounceBit
+zedxion-smart-chain,Zedxion Smart Chain
+genesys-network,Genesys Network
+taiko,Taiko
+sanko-mainnet,Sanko
+onchain,OnChain
+jib-chain,JB Chain
+sei-evm,Sei V2
+saakuru-mainnet,Saakuru
+larissa-mainnet,Larissa
+boba-bnb,Boba BNB
+haqq-network,Haqq Network
+ham,Ham
+rootstock,Rootstock
+endurance,Endurance
+iota-evm,IOTA EVM
+alienx,AlienX
+etherlink,Etherlink
+skale-europa,SKALE Europa
+rari,Rari
+nahmii,Nahmii
+bomechain,BomeChain
+zircuit,Zircuit
+cronos-zkevm,Cronos zkEVM
+q-mainnet,Q Mainnet
+gravity-alpha,Gravity
+tron,Tron
+mint,Mint
+swanchain,Swanchain
+flow-evm,Flow EVM
+canxium,Canxium
+shape,Shape
+world-chain,World Chain
+apechain,ApeChain
+morph-l2,Morph L2
+cardano,Cardano
+icp,Internet Computer
+defiverse,DefiVerse
+planq,Planq
+zero-network,Zero Network
+ql1,QL1
+duckchain,DuckChain
+vanarchain,Vanar Chain
+eclipse,Eclipse
+airdao,AirDAO
+units-network,Units Network
+zilliqa-evm,Zilliqa EVM
+sonic,Sonic
+ink,Ink
+vana,Vana
+electroneum,Electroneum
+funki,Funki
+matchain,Matchain
+swellchain,Swellchain
+soneium,Soneium
+lisk,Lisk
+educhain,EDU Chain
+xrpl,XRPL
+ao,AO
+shido-network,Shido Network
+abstract,Abstract
+artela,Artela
+parex,Parex
+berachain,Berachain
+treasure,Treasure
+taraxa,Taraxa
+unichain,Unichain
+story,Story
+hela,Hela
+hyperevm,HyperEVM
+monad-testnet,Monad Testnet
+corn,Corn
+hyperliquid,Hyperliquid
+pundi-aifx-omnilayer,Pundi AIFX Omnilayer
+movement,Movement
+form-network,Form Network
+saga,Saga
+superseed,Superseed
+shine-chain,Shine Chain
+sx-rollup,SX Rollup
+goat,Goat
+sonic-svm,Sonic SVM
+superposition,Superposition
+lens,Lens
+plume-network,Plume Network
+hemi,Hemi
+sophon,Sophon
+bittensor,Bittensor
+tokchain,Tokchain
+mantra,Mantra
+bitcichain,Bitcichain
+haven1,Haven1
+initia,Initia
+pepe-unchained,Pepe Unchained
+wax,WAX
+hydra-chain,Hydra Chain
+katana,Katana
+opengpu,OpenGPU
+redbelly-network,Redbelly Network
+botanix,Botanix
+quai-network,Quai Network
+glue,Glue
+near,Near
+xrpl-evm,XRPL EVM
+tac,TAC
+memecore,MemeCore
+mezo,Mezo
+hashkey,Hashkey
+peaq,Peaq
+camp-network,Camp Network
+somnia,Somnia
+besc-hyperchain,BESC HyperChain
+mitosis,Mitosis
+nibiru,Nibiru
+xone,Xone
+plasma,Plasma
+0g,0G
+juchain,JuChain
+gate-layer,Gate Layer
+kasplex,Kasplex
+chromia,Chromia
+injective,Injective
