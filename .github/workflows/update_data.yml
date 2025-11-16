@@ -1,0 +1,51 @@
+name: Update Network Data
+
+# Controls when the action will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+  # Runs on a schedule (e.g., once every day at midnight UTC)
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checks out your repository so the script can run
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      # 2. Sets up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Installs the 'requests' library
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. Runs your Python script
+      - name: Run script to fetch data
+        run: python fetch_networks.py
+
+      # 5. Commits the new/updated networks.csv file back to your repo
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add networks.csv
+          # Only commit if there are changes
+          git diff-index --quiet HEAD || git commit -m "Update network data" -a
+          
+      # 6. Pushes the changes back to GitHub
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
