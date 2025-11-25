@@ -198,7 +198,6 @@ unichain,Unichain
 story,Story
 hela,Hela
 hyperevm,HyperEVM
-monad-testnet,Monad Testnet
 corn,Corn
 hyperliquid,Hyperliquid
 pundi-aifx-omnilayer,Pundi AIFX Omnilayer
@@ -251,3 +250,4 @@ kasplex,Kasplex
 chromia,Chromia
 injective,Injective
 mova,Mova
+monad,Monad
